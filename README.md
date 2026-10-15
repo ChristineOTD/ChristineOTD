@@ -25,7 +25,7 @@
 
 ### 🎮 PRESS START — CHOOSE YOUR LEVEL 🎮
 
-[🍄 **About Me**](#about) &nbsp;•&nbsp; [⭐ **Power-Ups**](#powerups) &nbsp;•&nbsp; [🏰 **Boss Battles**](#bosses) &nbsp;•&nbsp; [⚔️ **Anime Shrine**](#shrine) &nbsp;•&nbsp; [🪙 **Scoreboard**](#scoreboard) &nbsp;•&nbsp; [💌 **Continue?**](#connect)
+[🍄 **About Me**](#about) &nbsp;•&nbsp; [⭐ **Power-Ups**](#powerups) &nbsp;•&nbsp; [🏅 **Achievements**](#achievements) &nbsp;•&nbsp; [🏰 **Boss Battles**](#bosses) &nbsp;•&nbsp; [⚔️ **Anime Shrine**](#shrine) &nbsp;•&nbsp; [🪙 **Scoreboard**](#scoreboard) &nbsp;•&nbsp; [💌 **Continue?**](#connect)
 
 </div>
 
@@ -36,12 +36,16 @@
 
 > *Hello, darling. Come closer, let me show you around the castle.* 💋
 
+📜 **Quest Log:** I'm a Mathematics student at the University of Nairobi with a big passion for Data Science and Data Engineering. Discrete math, probability, linear algebra and statistics are my foundation, and I love turning them into real, working tech: SQL, Python, clean pipelines and good-looking visuals. I build for the web too, front end and back end. Next up: internships and entry-level roles in data analysis and data engineering, in Kenya and remote. Committed, disciplined and hungry to grow. 🌸
+
 | 🎀 STAT | 💖 VALUE |
 | :--- | :--- |
 | **Player** | Christine |
 | **Origin** | Nairobi, Kenya 🇰🇪 |
 | **Guild** | B.Sc. Mathematics @ University of Nairobi 🎓 |
-| **Class** | Aspiring Data Engineer |
+| **Class** | Aspiring Data Engineer & Web Developer |
+| **Math Arsenal** | Discrete math • probability • linear algebra • statistics 📐 |
+| **Achievement** | 🏅 Coursera certificate: Data Analysis with Python |
 | **Current Quest** | Raw data ➜ robust architectures, learning AWS ☁️ |
 | **Aesthetic** | Dark feminine, clean logic, beautiful builds 🖤 |
 | **Side Quests** | Poetry ✍️ • dark fantasy • anime 🌙 |
@@ -69,6 +73,7 @@
 | :--- | :--- |
 | **Languages & Core** | `Python` • `SQL` • `HTML` • `CSS` • `LaTeX` |
 | **Data Science & ML** | `PostgreSQL` • `NumPy` • `Pandas` • `Seaborn` • `Matplotlib` • `Scikit-Learn` |
+| **Web Dev** | `React` • `Flask` • `PythonAnywhere` • `HTML` • `CSS` |
 | **Cloud & Workflow** | `AWS (leveling up)` • `Git` • `RStudio` • `VS Code` |
 
 <br/>
@@ -81,8 +86,40 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1a0b14?style=for-the-badge&logo=scikitlearn&logoColor=ff9ed2)](#powerups)
 [![Git](https://img.shields.io/badge/Git-1a0b14?style=for-the-badge&logo=git&logoColor=ff9ed2)](#powerups)
 [![LaTeX](https://img.shields.io/badge/LaTeX-1a0b14?style=for-the-badge&logo=latex&logoColor=ff9ed2)](#powerups)
+[![React](https://img.shields.io/badge/React-1a0b14?style=for-the-badge&logo=react&logoColor=ff9ed2)](#powerups)
+[![Flask](https://img.shields.io/badge/Flask-1a0b14?style=for-the-badge&logo=flask&logoColor=ff9ed2)](#powerups)
+[![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1a0b14?style=for-the-badge&labelColor=ff69b4&color=1a0b14)](#powerups)
 
 </div>
+
+---
+
+<a id="achievements"></a>
+## 🏅 ACHIEVEMENT UNLOCKED
+
+<div align="center">
+
+[![Coursera](https://img.shields.io/badge/COURSERA-DATA%20ANALYSIS%20WITH%20PYTHON-ff69b4?style=for-the-badge&labelColor=1a0b14)](#achievements)
+
+</div>
+
+<details>
+<summary>🏆 <b>See what this level taught me</b></summary>
+<br/>
+
+📥 **Loading & cleaning data:** importing datasets and wrangling messy data into shape
+
+🔍 **Exploratory data analysis:** digging into patterns, relationships and summary statistics
+
+📈 **Model development:** building regression models to predict outcomes
+
+✅ **Model evaluation:** testing and refining models so they hold up
+
+🎨 **Visualization:** telling the story with clean charts
+
+**Weapons:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-Learn`
+
+</details>
 
 ---
 
