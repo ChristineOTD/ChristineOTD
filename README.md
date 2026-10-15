@@ -1,87 +1,206 @@
 <div align="center">
 
-<!-- Animated Header / Banner -->
-# 🖤 ✨ 𝓒𝓱𝓻𝓲𝓼𝓽𝓲𝓷𝓮 ✨ 🖤
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=230&section=header&text=Christine&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%F0%9F%8D%84%20PLAYER%201%20%E2%80%A2%20WORLD%201-1%20%E2%80%A2%20INSERT%20COIN%20%F0%9F%AA%99&descSize=18&descAlignY=60" width="100%" alt="Christine banner"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=F472B6&center=true&vcenter=true&width=550&lines=B.Sc.+Mathematics+Student+%40+UoN;Aspiring+Data+Engineer;Python+%E2%80%A2+SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS;Crafting+elegance+in+code+%26+data" alt="Typing SVG" />
-</p>
-
-*✦ "Logic is the structure; poetry is the soul." ✦*
-
----
-
-<!-- Aesthetic Divider GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYycThzaHRjMjlpa2xrcmlyY3EwdmVrdHN2c3E0MnRtdDZ0dms3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvC03y3Re/giphy.gif" width="350" alt="aesthetic gif"/>
-</p>
-
----
-
-</div>
-
-## 💋 About Me
-
-* 🎓 **Roots:** B.Sc. Mathematics Student @ University of Nairobi | Based in Nairobi, Kenya 🇰🇪
-* 🖤 **Aesthetic:** Dark feminine, clean logic, and aesthetic builds
-* ☁️ **Focus:** Transitioning from raw data to robust architectures — currently exploring **Data & Cloud Engineering** (learning AWS)
-* ✍️ **Beyond the Terminal:** Writing poetry, getting lost in dark fantasy/anime, and learning interactively
-
----
-
-## 💅 The Technical Suite
-
-<div align="center">
-
-| Category | Tech & Tools |
-| :--- | :--- |
-| **Languages & Core** | `Python` • `SQL` • `HTML` • `CSS` • `LaTeX` |
-| **Data Science & ML** | `PostgreSQL` • `NumPy` • `Pandas` • `Seaborn` • `Matplotlib` • `Scikit-Learn` |
-| **Cloud & Workflow** | `AWS (Learning)` • `Git` • `RStudio` • `VS Code` |
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=FF69B4&center=true&vcenter=true&width=760&height=50&lines=PLAYER+1+READY...+HELLO%2C+DARLING;WORLD+1-1+%3A+B.Sc.+MATHEMATICS+%40+UoN;POWER-UPS+%3A+PYTHON+SQL+POSTGRES+AWS;DEDICATE+YOUR+HEART+TO+CLEAN+DATA" alt="Typing SVG"/>
 
 <br/>
 
-<div align="center">
+![Lives](https://img.shields.io/badge/LIVES-%E2%99%A5%20%E2%99%A5%20%E2%99%A5-ff69b4?style=for-the-badge&labelColor=1a0b14)
+![World](https://img.shields.io/badge/WORLD-1--1-ff9ed2?style=for-the-badge&labelColor=1a0b14)
+![Class](https://img.shields.io/badge/CLASS-DATA%20ENGINEER%20IN%20TRAINING-ff69b4?style=for-the-badge&labelColor=1a0b14)
+![Players](https://komarev.com/ghpvc/?username=ChristineOTD&label=PLAYERS+ONLINE&color=ff69b4&style=for-the-badge&labelColor=1a0b14)
 
-<!-- Custom Colored Tech Badges -->
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=f472b6)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=f472b6)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=f472b6)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=f472b6)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=f472b6)
+<br/>
 
-</div>
+```
+  ☁️          ☁️                ☁️          ☁️
+          ❓ 🟫 ❓ 🟫 ❓                    🏰
+  🍄                    ⭐
+🟩🟩🟩🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+```
 
----
+*✦ "Logic is the structure; poetry is the soul." ✦*
 
-## 🍸 Selected Works
+### 🎮 PRESS START — CHOOSE YOUR LEVEL 🎮
 
-* 🍷 **[Data Pipeline / Model Project]** — Short description of an ML model or data analysis pipeline using scikit-learn & pandas.
-* 💋 **[SQL & PostgreSQL Query Suite]** — Complex relational data manipulation and database management.
-* 🕯️ **[Cloud & Automation Scripts]** — AWS-focused utilities or data engineering experiments.
-
----
-
-## 🖤 Aesthetic GitHub Metrics
-
-<div align="center">
-
-<!-- GitHub Stats in Custom Dark / Rose Theme (Make sure username is ChristineOTD) -->
-<img src="https://github-readme-stats.vercel.app/api?username=ChristineOTD&show_icons=true&theme=rose_pine&hide_border=true&title_color=f472b6&text_color=e0e0e0&bg_color=0f0f14" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristineOTD&layout=compact&theme=rose_pine&hide_border=true&title_color=f472b6&text_color=e0e0e0&bg_color=0f0f14" width="48%" />
+[🍄 **About Me**](#about) &nbsp;•&nbsp; [⭐ **Power-Ups**](#powerups) &nbsp;•&nbsp; [🏰 **Boss Battles**](#bosses) &nbsp;•&nbsp; [⚔️ **Anime Shrine**](#shrine) &nbsp;•&nbsp; [🪙 **Scoreboard**](#scoreboard) &nbsp;•&nbsp; [💌 **Continue?**](#connect)
 
 </div>
 
 ---
 
+<a id="about"></a>
+## 🍄 WORLD 1-1 &nbsp;·&nbsp; PLAYER SELECT
+
+> *Hello, darling. Come closer, let me show you around the castle.* 💋
+
+| 🎀 STAT | 💖 VALUE |
+| :--- | :--- |
+| **Player** | Christine |
+| **Origin** | Nairobi, Kenya 🇰🇪 |
+| **Guild** | B.Sc. Mathematics @ University of Nairobi 🎓 |
+| **Class** | Aspiring Data Engineer |
+| **Current Quest** | Raw data ➜ robust architectures, learning AWS ☁️ |
+| **Aesthetic** | Dark feminine, clean logic, beautiful builds 🖤 |
+| **Side Quests** | Poetry ✍️ • dark fantasy • anime 🌙 |
+
+<details>
+<summary>❓ <b>Hit the question block...</b> (click me)</summary>
+<br/>
+
+🪙 **+1 Coin:** I write poetry, and I think a well-written query reads like one.
+
+🍄 **Power-Up:** I learn best by doing, so expect experiments, half-finished ideas and lots of iteration here.
+
+⭐ **Star:** Math is my foundation. Data engineering is where I get to build with it.
+
+</details>
+
+---
+
+<a id="powerups"></a>
+## ⭐ INVENTORY &nbsp;·&nbsp; POWER-UPS COLLECTED
+
 <div align="center">
 
-### ✦ Let's Connect ✦
+| 🎯 SLOT | 🍄 POWER-UP |
+| :--- | :--- |
+| **Languages & Core** | `Python` • `SQL` • `HTML` • `CSS` • `LaTeX` |
+| **Data Science & ML** | `PostgreSQL` • `NumPy` • `Pandas` • `Seaborn` • `Matplotlib` • `Scikit-Learn` |
+| **Cloud & Workflow** | `AWS (leveling up)` • `Git` • `RStudio` • `VS Code` |
 
-[![Substack](https://img.shields.io/badge/Substack-000000?style=for-the-badge&logo=substack&logoColor=f472b6)]https://substack.com/@overdriveread
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=f472b6)]www.linkedin.com/in/christine-mwaniki-9485a4369
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=f472b6)](https://github.com/ChristineOTD)
+<br/>
+
+![Python](https://img.shields.io/badge/Python-1a0b14?style=for-the-badge&logo=python&logoColor=ff9ed2)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0b14?style=for-the-badge&logo=postgresql&logoColor=ff9ed2)
+![AWS](https://img.shields.io/badge/%E2%98%81%EF%B8%8F_AWS-LEVELING_UP-1a0b14?style=for-the-badge&labelColor=ff69b4&color=1a0b14)
+![Pandas](https://img.shields.io/badge/Pandas-1a0b14?style=for-the-badge&logo=pandas&logoColor=ff9ed2)
+![NumPy](https://img.shields.io/badge/NumPy-1a0b14?style=for-the-badge&logo=numpy&logoColor=ff9ed2)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1a0b14?style=for-the-badge&logo=scikitlearn&logoColor=ff9ed2)
+![Git](https://img.shields.io/badge/Git-1a0b14?style=for-the-badge&logo=git&logoColor=ff9ed2)
+![LaTeX](https://img.shields.io/badge/LaTeX-1a0b14?style=for-the-badge&logo=latex&logoColor=ff9ed2)
+
+</div>
+
+---
+
+<a id="bosses"></a>
+## 🏰 BOSS BATTLES &nbsp;·&nbsp; SELECTED WORKS
+
+*Step into a pipe to enter a level* 🟩
+
+<details>
+<summary>🟩 <b>WORLD 1-1 — The Survey Corps Expedition</b> &nbsp;·&nbsp; [Data Pipeline / Model Project]</summary>
+<br/>
+
+Short description of an ML model or data analysis pipeline using scikit-learn & pandas.
+
+**Weapons:** `Python` `Pandas` `Scikit-Learn`
+**Status:** 🔨 Under construction
+
+</details>
+
+<details>
+<summary>🟩 <b>WORLD 2-1 — Defending Wall Maria</b> &nbsp;·&nbsp; [SQL & PostgreSQL Query Suite]</summary>
+<br/>
+
+Complex relational data manipulation and database management.
+
+**Weapons:** `SQL` `PostgreSQL`
+**Status:** 🔨 Under construction
+
+</details>
+
+<details>
+<summary>🟩 <b>WORLD 3-1 — Humanity vs. the Gods</b> &nbsp;·&nbsp; [Cloud & Automation Scripts]</summary>
+<br/>
+
+AWS-focused utilities or data engineering experiments.
+
+**Weapons:** `Python` `AWS`
+**Status:** 🔨 Under construction
+
+</details>
+
+---
+
+<a id="shrine"></a>
+## ⚔️ THE ANIME SHRINE
+
+<div align="center">
+
+| 🗡️ ATTACK ON TITAN | 🔱 RECORD OF RAGNAROK |
+| :---: | :---: |
+| *My favorite of all time* | *Humanity vs. the Gods* |
+| Walls, wings and a whole lot of heart | Thirteen rounds, zero mercy |
+| **"Dedicate your heart."** | **"Fight like humanity depends on it."** |
+
+</div>
+
+<details>
+<summary>🌙 <b>Open the shrine</b></summary>
+<br/>
+
+🗡️ **Attack on Titan** taught me that the real horror is a story that refuses to be simple. I'm still here for every theory.
+
+🔱 **Record of Ragnarok** is pure spectacle: mortals versus gods, no handicaps. Same energy I bring to a gnarly dataset. 😌
+
+🖤 Dark fantasy lives rent-free in my head, and in my poetry.
+
+**Favorite character:** *(add yours here)*
+
+</details>
+
+---
+
+<a id="scoreboard"></a>
+## 🪙 THE SCOREBOARD
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChristineOTD&show_icons=true&hide_border=true&bg_color=1a0b14&title_color=ff69b4&text_color=ffd6ec&icon_color=ff9ed2&ring_color=ff69b4&custom_title=Christine%27s+Scoreboard" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristineOTD&layout=compact&hide_border=true&bg_color=1a0b14&title_color=ff69b4&text_color=ffd6ec&custom_title=Power-Up+Usage" width="48%" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ChristineOTD&hide_border=true&background=1a0b14&ring=ff69b4&fire=ff9ed2&currStreakLabel=ff69b4&sideLabels=ff69b4&currStreakNum=ffd6ec&sideNums=ffd6ec&dates=ff9ed2" alt="Streak stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChristineOTD&bg_color=1a0b14&color=ff9ed2&line=ff69b4&point=ffffff&area=true&area_color=ff69b4&hide_border=true&title_color=ff69b4" width="95%" alt="Contribution graph"/>
+
+<br/><br/>
+
+**🐍 Watch the snake gobble up my contributions 🐍**
+
+<picture>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ChristineOTD/ChristineOTD/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+
+</div>
+
+---
+
+<a id="connect"></a>
+<div align="center">
+
+## 💌 CONTINUE? &nbsp;·&nbsp; LET'S CONNECT
+
+*Don't be shy, darling. Pick a pipe.* 🟩
+
+[![Substack](https://img.shields.io/badge/Substack-ff69b4?style=for-the-badge&logo=substack&logoColor=1a0b14)](https://substack.com/@overdriveread)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=1a0b14)](https://www.linkedin.com/in/christine-mwaniki-9485a4369)
+[![GitHub](https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=1a0b14)](https://github.com/ChristineOTD)
+
+<br/>
+
+```
+🪙 × 99   ♥ ♥ ♥   ⭐ HIGH SCORE: STILL CLIMBING
+
+        GAME OVER? Never. Insert coin to continue. 💋
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=140&section=footer" width="100%" alt="footer"/>
 
 </div>
