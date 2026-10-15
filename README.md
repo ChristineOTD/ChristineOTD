@@ -168,10 +168,6 @@ AWS-focused utilities or data engineering experiments.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChristineOTD&bg_color=1a0b14&color=ff9ed2&line=ff69b4&point=ffffff&area=true&area_color=ff69b4&hide_border=true&title_color=ff69b4" width="95%" alt="Contribution graph"/>
-
-<br/><br/>
-
 **🐍 Watch the snake gobble up my contributions 🐍**
 
 <picture>
